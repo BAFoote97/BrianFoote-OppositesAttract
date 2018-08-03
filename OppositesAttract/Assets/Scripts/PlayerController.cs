@@ -46,6 +46,7 @@ public class PlayerController : MonoBehaviour {
 
         if (Input.GetMouseButtonDown(0))
         {
+            Debug.Log("Schuut");
             //The Bullet Instantiation happens here.
             GameObject Temporary_Bullet_handler;
 

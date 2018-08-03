@@ -1,0 +1,2 @@
+C:\Users\Student.AII\Documents\GitHub\BrianFoote-OppositesAttract\OppositesAttract\Temp\UnityVS_obj\Debug\UnityEditor.StandardEvents.csprojResolveAssemblyReference.cache
+C:\Users\Student.AII\Documents\GitHub\BrianFoote-OppositesAttract\OppositesAttract\Temp\UnityVS_obj\Debug\UnityEditor.StandardEvents.csproj.CoreCompileInputs.cache

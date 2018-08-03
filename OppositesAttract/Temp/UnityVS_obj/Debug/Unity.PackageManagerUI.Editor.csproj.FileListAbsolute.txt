@@ -1,0 +1,2 @@
+C:\Users\Student.AII\Documents\GitHub\BrianFoote-OppositesAttract\OppositesAttract\Temp\UnityVS_obj\Debug\Unity.PackageManagerUI.Editor.csprojResolveAssemblyReference.cache
+C:\Users\Student.AII\Documents\GitHub\BrianFoote-OppositesAttract\OppositesAttract\Temp\UnityVS_obj\Debug\Unity.PackageManagerUI.Editor.csproj.CoreCompileInputs.cache
